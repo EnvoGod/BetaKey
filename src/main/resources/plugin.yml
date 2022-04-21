@@ -1,0 +1,15 @@
+name: BetaKey
+version: "1.0"
+main: org.hyplexmc.betakey.spigot.init
+author: HyplexMC
+website: https://hyplexmc.org
+prefix: BetaKey
+
+commands:
+  betakey:
+    description: BetaKey command
+    aliases:
+      - bk
+      - beta
+      - key
+    permission: betakey.command

@@ -1,0 +1,12 @@
+{
+  "kickMessage": "&7---------&8(&b*&8)&7-------&8(&cERROR&8))&7-------&8(&b*&8)&7--------- &8 \n\n &7You can only join Hyplex | Network\\ with a valid &c&lBetakey&7. \n\n &9Do you have a &c&lBetakey? \n&7Redeem it here:\\ &chyplexmc.org/beta \n&aIf you dont have a beta key get one from the BetaKey chat in the discord\n discord.hyplexmc.org \n\n&7---------&8(&b*&8)&7-----------------------&8(&b*&8)&7---------",
+  "prefix": "&9BetaKey &8» &7",
+  "mysql": {
+    "use": true,
+    "database": "beta",
+    "User": "beta",
+    "Port": 3306,
+    "Host": "localhost",
+    "Password": "123"
+  }
+}
